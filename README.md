@@ -16,7 +16,7 @@
 
 ---
 
-### 💻 **Atualmente aprendendo:**
+### 💻 **Interesses:**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="100px">
   
