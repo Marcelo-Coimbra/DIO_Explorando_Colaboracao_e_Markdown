@@ -1,4 +1,4 @@
-### 🤘 Olá, eu sou o Marcelo Coimbra!
+### 🤘 Olá, eu sou Marcelo Coimbra!
 
 - 👽 Atualmente sou **Agente Administrativo**
 - 🚀 Estudante de **Análise e Desenvolvimento de Sistemas**, sempre motivado pela curiosidade e pela vontade de aprender
@@ -18,7 +18,7 @@
 
 ### 💻 **Interesses:**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="100px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="100px">
   
 ---
 
