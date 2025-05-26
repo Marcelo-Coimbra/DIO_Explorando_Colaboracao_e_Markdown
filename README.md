@@ -1,13 +1,11 @@
-### 👋 Olá, eu sou o Marcelo Coimbra!
+### 🤘 Olá, eu sou o Marcelo Coimbra!
 
-- 🔹 Atualmente sou **Agente Administrativo**
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 🚀 Buscando minha transição para a área de tecnologia
-- 💡 Sempre aprendendo e praticando programação
+- 👽 Atualmente sou **Agente Administrativo**
+- 🚀 Estudante de **Análise e Desenvolvimento de Sistemas**, sempre motivado pela curiosidade e pela vontade de aprender
 
 ---
 
-### 📊 **My GitHub Stats:**
+### 📊 **GitHub Stats:**
 
 <div align="center">
   <a href="https://github.com/marcelo-coimbra">
@@ -18,30 +16,10 @@
 
 ---
 
-### 💻 **Main Skills:**
+### 💻 **Atualmente aprendendo:**
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-
----
-
-### 🌱 **Atualmente aprendendo:**
-
-- Lógica de programação
-- Python (avançando)
-- Banco de dados (SQL)
-- Desenvolvimento Web básico (HTML, CSS, JavaScript)
-- Versionamento com Git e GitHub
-
----
-
-### 📫 **Contatos:**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario-linkedin/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="100px">
+  
 ---
 
 <div align="center">
